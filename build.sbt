@@ -10,4 +10,4 @@ libraryDependencies ++= Seq(
   "org.specs2" %% "specs2" % "1.12" % "test"
 )
 
-initialCommands := "import com.qtamaki.leftistheaps._"
+initialCommands := "import com.qtamaki.lh._"
