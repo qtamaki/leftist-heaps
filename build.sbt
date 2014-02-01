@@ -11,3 +11,6 @@ libraryDependencies ++= Seq(
 )
 
 initialCommands := "import com.qtamaki.lh._"
+
+EclipseKeys.withSource := true
+
